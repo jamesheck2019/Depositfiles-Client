@@ -3,6 +3,9 @@
 * copy,move,rename,delete,lock files folders
 * upload download files folders
 * share files folders
+* remote upload files
+* folder upload
+* multi tasks
 
 `Download:`
 [https://github.com/jamesheck2019/Depositfiles-Client/releases](https://github.com/jamesheck2019/Depositfiles-Client/releases)<br/>
