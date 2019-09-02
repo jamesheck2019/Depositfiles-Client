@@ -1,5 +1,5 @@
 ## Depositfiles-Client
-# app to manage your files in Depositfiles
+**Client to manage your files in Depositfiles**
 * copy,move,rename,delete,lock files folders
 * upload download files folders
 * share files folders
